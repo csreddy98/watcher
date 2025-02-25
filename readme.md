@@ -1,5 +1,6 @@
-
 # File Watcher
+
+A simple tool that monitors your Downloads folder and automatically organizes files based on categories defined in "config.json".
 
 ## Prerequisites
 - Python 3.x
